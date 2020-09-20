@@ -24,7 +24,7 @@ npm install -D
 <p>Once installed to run the server normally use</p>
 ```
 npm start
-'''
+```
 <p>to utilize nodemon:</p>
 ```
 npm run server
