@@ -7,12 +7,13 @@
 ### Usage
 
 <p> to use this app you will need to create a .env file in the root directory with the following items</p>
-| key | use |
-|---|---|
-|PORT|port for the server to listen on will default to 4000|
-|MONGO|uri for the mongo database (required)|
-|SECRET_OR_KEY|used for jwt encoding|
-|TOKEN_HEADER|header used for jwt token. Tutorial uses "x-auth-token"|
+
+| key           | use                                                     |
+| ------------- | ------------------------------------------------------- |
+| PORT          | port for the server to listen on will default to 4000   |
+| MONGO         | uri for the mongo database (required)                   |
+| SECRET_OR_KEY | used for jwt encoding                                   |
+| TOKEN_HEADER  | header used for jwt token. Tutorial uses "x-auth-token" |
 
 ### To Run
 
