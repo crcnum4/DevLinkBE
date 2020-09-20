@@ -18,15 +18,20 @@
 ### To Run
 
 <p>Once you have the .env file configured be sure to run the following command:</p>
+
 ```
 npm install
 npm install -D
 ```
+
 <p>Once installed to run the server normally use</p>
+
 ```
 npm start
 ```
+
 <p>to utilize nodemon:</p>
+
 ```
 npm run server
 ```
